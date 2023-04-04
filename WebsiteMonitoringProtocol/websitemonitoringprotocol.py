@@ -2,22 +2,20 @@ import requests
 import os
 import time
 from bs4 import BeautifulSoup
-from twilio.rest import Client
-TWILIO_ACCOUNT_SID = "AC05bfedd2bb9c2d6e1dd5769554342df8" # my Account SID
-TWILIO_AUTH_TOKEN = "87b99416ce5a609c4975ad0c34b5549d" # my Auth Token
-TWILIO_PHONE_SENDER = "+447700165801" # replace with the phone number you registered in twilio
-TWILIO_PHONE_RECIPIENT = "+447513766675" # replace with your phone number
+from email.message import EmailMessage
+import ssl
+import smtplib
 
 
-def send_text_alert(alert_str):
-    """Sends an SMS text alert."""
-    client = Client(TWILIO_ACCOUNT_SID, TWILIO_AUTH_TOKEN)
-    message = client.messages.create(to=TWILIO_PHONE_RECIPIENT, from_=TWILIO_PHONE_SENDER, body=alert_str)
+
+
 
 URL_TO_MONITOR = "https://glastonbury.seetickets.com/content/extras" #change this to the URL you want to monitor
 
 
-DELAY_TIME = 5 # seconds
+DELAY_TIME = 2 # seconds
+
+# the following is a processing function to alter the format of the GET request into something more readable for humans and to remove annoying tags which change with every page query
 
 def process_html(string):
     soup = BeautifulSoup(string, features="lxml")
@@ -39,12 +37,29 @@ def process_html(string):
     # convert to a string, remove '\r', and return
     return str(soup).replace('\r', '')
 
+# set up of email details and email content
+
+email_sender = 'zakburner22@gmail.com'
+email_password = 'beqstfnzlskidqtr' # fake password inputted here for sharing with world on GitHub
+email_receiver = 'zakreynolds96@gmail.com'
+
+subject = 'Website has changed!'
+body = """Get your ass over to the glasto site right now https://glastonbury.seetickets.com/content/extras"""
+
+ # instantiating email object using the imported email module and then tagging the relevant attributes. The SSL class adds extra ecurity onto the email contents
+em = EmailMessage()
+em['From'] = email_sender
+em['To'] = email_receiver
+em['Subject'] = subject
+em.set_content(body)
+context = ssl.create_default_context()
+
 def webpage_was_changed(): 
     # Returns true if the webpage was changed, otherwise false
     headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36',
     'Pragma': 'no-cache', 'Cache-Control': 'no-cache'}
     response = requests.get(URL_TO_MONITOR, headers=headers)
-    print(dir(response))
+
 
     # create the previous_content.txt if it doesn't exist
     if not os.path.exists("previous_content.txt"): #does this file exist from a previous loop, if not then create it
@@ -58,6 +73,8 @@ def webpage_was_changed():
     # processes the get request into a format which removes meta,script, and nonce tags and outputs filw as variable for comparison with previous response
     processed_response_html = process_html(response.text)
 
+ 
+    # check if new iteration is same as previous iterarion, if True then website hasn't changed, if False then website has changed and function should return True to the While loop
     if previous_response_html == processed_response_html:
         return False   
     else:
@@ -70,12 +87,18 @@ def webpage_was_changed():
         New_URL.close()
         print('Changing everytime')
         return True
-    
+    # while loop to run continuously with a delay sleep time of 5 seconds per cycle. __name__ == "__main__" means the main function will only be called when the script is the main script running and not just a module imported into another script
 def main():  
     while True:
         try:
             if webpage_was_changed():
                 print('Yay')
+                
+                with smtplib.SMTP_SSL('smtp.gmail.com',465,context=context) as smtp:
+                    smtp.login(email_sender,email_password)
+                    smtp.sendmail(email_sender,email_receiver,em.as_string())
+                            
+                    print("Successfully sent email")           
             else:
                 print('Nothing yet')
         except:

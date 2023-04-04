@@ -14,7 +14,7 @@ def send_text_alert(alert_str):
     client = Client(TWILIO_ACCOUNT_SID, TWILIO_AUTH_TOKEN)
     message = client.messages.create(to=TWILIO_PHONE_RECIPIENT, from_=TWILIO_PHONE_SENDER, body=alert_str)
 
-URL_TO_MONITOR = "https://twitter.com/zakreynolds_" #change this to the URL you want to monitor
+URL_TO_MONITOR = "https://glastonbury.seetickets.com/content/extras" #change this to the URL you want to monitor
 
 
 DELAY_TIME = 5 # seconds
@@ -44,6 +44,7 @@ def webpage_was_changed():
     headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36',
     'Pragma': 'no-cache', 'Cache-Control': 'no-cache'}
     response = requests.get(URL_TO_MONITOR, headers=headers)
+    print(dir(response))
 
     # create the previous_content.txt if it doesn't exist
     if not os.path.exists("previous_content.txt"): #does this file exist from a previous loop, if not then create it

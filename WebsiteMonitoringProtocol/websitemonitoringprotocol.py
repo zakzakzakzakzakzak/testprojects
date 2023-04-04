@@ -14,7 +14,7 @@ def send_text_alert(alert_str):
     client = Client(TWILIO_ACCOUNT_SID, TWILIO_AUTH_TOKEN)
     message = client.messages.create(to=TWILIO_PHONE_RECIPIENT, from_=TWILIO_PHONE_SENDER, body=alert_str)
 
-URL_TO_MONITOR = "https://glastonbury.seetickets.com/content/extras" #change this to the URL you want to monitor
+URL_TO_MONITOR = "https://twitter.com/zakreynolds_" #change this to the URL you want to monitor
 
 
 DELAY_TIME = 5 # seconds
@@ -49,7 +49,7 @@ def webpage_was_changed():
     if not os.path.exists("previous_content.txt"): #does this file exist from a previous loop, if not then create it
         open("previous_content.txt", 'w+').close()
 
-    # open the previous context file and assigns it to file handle which pis passed to previous_response_html and then closed
+    # open the previous context file and assign it to file handle which is passed to previous_response_html and then closed
     filehandle = open("previous_content.txt", 'r')
     previous_response_html = filehandle.read() 
     filehandle.close()
@@ -62,7 +62,11 @@ def webpage_was_changed():
     else:
         filehandle = open("previous_content.txt", 'w')
         filehandle.write(processed_response_html)
+        open("newsite.txt", 'w+').close()
+        New_URL = open("newsite.txt",'w')
+        New_URL.write(processed_response_html)
         filehandle.close()
+        New_URL.close()
         print('Changing everytime')
         return True
     
@@ -70,7 +74,7 @@ def main():
     while True:
         try:
             if webpage_was_changed():
-                send_text_alert(f"URGENT! {URL_TO_MONITOR} WAS CHANGED!")
+                print('Yay')
             else:
                 print('Nothing yet')
         except:

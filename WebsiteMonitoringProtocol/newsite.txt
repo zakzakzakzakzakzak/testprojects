@@ -1,154 +1,157 @@
 <!DOCTYPE html>
-<html dir="ltr" lang="en">
+<html class="no-js" lang="en">
 <head>
-
-<link href="//abs.twimg.com" rel="preconnect"/><link href="//abs.twimg.com" rel="dns-prefetch"/><link href="//api.twitter.com" rel="preconnect"/><link href="//api.twitter.com" rel="dns-prefetch"/><link href="//pbs.twimg.com" rel="preconnect"/><link href="//pbs.twimg.com" rel="dns-prefetch"/><link href="//t.co" rel="preconnect"/><link href="//t.co" rel="dns-prefetch"/><link href="//video.twimg.com" rel="preconnect"/><link href="//video.twimg.com" rel="dns-prefetch"/><link as="script" crossorigin="anonymous" href="https://abs.twimg.com/responsive-web/client-web-legacy/polyfills.0063396a.js" nonce="ZjcwNTFiOGYtNzkyOC00Mzc2LWI2ZmYtOGViYjIwYWI3MDcw" rel="preload"/><link as="script" crossorigin="anonymous" href="https://abs.twimg.com/responsive-web/client-web-legacy/vendor.fe0253ba.js" nonce="ZjcwNTFiOGYtNzkyOC00Mzc2LWI2ZmYtOGViYjIwYWI3MDcw" rel="preload"/><link as="script" crossorigin="anonymous" href="https://abs.twimg.com/responsive-web/client-web-legacy/i18n/en.af5117ca.js" nonce="ZjcwNTFiOGYtNzkyOC00Mzc2LWI2ZmYtOGViYjIwYWI3MDcw" rel="preload"/><link as="script" crossorigin="anonymous" href="https://abs.twimg.com/responsive-web/client-web-legacy/main.35218b9a.js" nonce="ZjcwNTFiOGYtNzkyOC00Mzc2LWI2ZmYtOGViYjIwYWI3MDcw" rel="preload"/>
-<link crossorigin="use-credentials" href="/manifest.json" rel="manifest"/><link href="/opensearch.xml" rel="search" title="Twitter" type="application/opensearchdescription+xml"/><link color="#1D9BF0" href="https://abs.twimg.com/responsive-web/client-web-legacy/icon-svg.168b89da.svg" rel="mask-icon" sizes="any"/><link href="//abs.twimg.com/favicons/twitter.2.ico" rel="shortcut icon"/><link href="https://abs.twimg.com/responsive-web/client-web-legacy/icon-ios.b1fc727a.png" rel="apple-touch-icon" sizes="192x192"/>
+<title>Glastonbury Festival Tickets</title>
 
 
-
-<link as="script" crossorigin="anonymous" href="https://abs.twimg.com/responsive-web/client-web-legacy/bundle.UserProfile.c6efaada.js" nonce="ZjcwNTFiOGYtNzkyOC00Mzc2LWI2ZmYtOGViYjIwYWI3MDcw" rel="preload"/><style>
-@media (prefers-color-scheme: dark) {
-  #placeholder { background-color: #000000 }
-  #ScriptLoadFailure span { color: #FFFFFF !important; }
-}</style><style>html,body{height: 100%;}::cue{white-space:normal}</style><style id="react-native-stylesheet">[stylesheet-group="0"]{}
-html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;-webkit-tap-highlight-color:rgba(0,0,0,0);}
-body{margin:0;}
-button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0;}
-input::-webkit-search-cancel-button,input::-webkit-search-decoration,input::-webkit-search-results-button,input::-webkit-search-results-decoration{display:none;}
-[stylesheet-group="0.1"]{}
-:focus:not([data-focusvisible-polyfill]){outline: none;}
-[stylesheet-group="0.5"]{}
-.css-18t94o4{cursor:pointer;}
-[stylesheet-group="1"]{}
-.css-1dbjc4n{-ms-flex-align:stretch;-ms-flex-direction:column;-ms-flex-negative:0;-ms-flex-preferred-size:auto;-webkit-align-items:stretch;-webkit-box-align:stretch;-webkit-box-direction:normal;-webkit-box-orient:vertical;-webkit-flex-basis:auto;-webkit-flex-direction:column;-webkit-flex-shrink:0;align-items:stretch;border:0 solid black;box-sizing:border-box;display:-webkit-box;display:-moz-box;display:-ms-flexbox;display:-webkit-flex;display:flex;flex-basis:auto;flex-direction:column;flex-shrink:0;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;min-height:0px;min-width:0px;padding-bottom:0px;padding-left:0px;padding-right:0px;padding-top:0px;position:relative;z-index:0;}
-.css-901oao{border:0 solid black;box-sizing:border-box;color:rgba(0,0,0,1.00);display:inline;font:14px -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;padding-bottom:0px;padding-left:0px;padding-right:0px;padding-top:0px;white-space:pre-wrap;word-wrap:break-word;}
-.css-16my406{color:inherit;font:inherit;white-space:inherit;}
-.css-1hf3ou5{max-width:100%;overflow-x:hidden;overflow-y:hidden;text-overflow:ellipsis;white-space:nowrap;word-wrap:normal;}
-[stylesheet-group="2"]{}
-.r-13awgt0{-ms-flex:1 1 0%;-webkit-flex:1;flex:1;}
-.r-4qtqp9{display:inline-block;}
-.r-ywje51{margin-bottom:auto;margin-left:auto;margin-right:auto;margin-top:auto;}
-.r-hvic4v{display:none;}
-.r-sdzlij{border-bottom-left-radius:9999px;border-bottom-right-radius:9999px;border-top-left-radius:9999px;border-top-right-radius:9999px;}
-.r-1phboty{border-bottom-style:solid;border-left-style:solid;border-right-style:solid;border-top-style:solid;}
-.r-rs99b7{border-bottom-width:1px;border-left-width:1px;border-right-width:1px;border-top-width:1px;}
-.r-6koalj{display:-webkit-box;display:-moz-box;display:-ms-flexbox;display:-webkit-flex;display:flex;}
-[stylesheet-group="2.1"]{}
-.r-ymttw5{padding-left:16px;padding-right:16px;}
-[stylesheet-group="2.2"]{}
-.r-12vffkv>*{pointer-events:auto;}
-.r-12vffkv{pointer-events:none!important;}
-.r-14lw9ot{background-color:rgba(255,255,255,1.00);}
-.r-1p0dtai{bottom:0px;}
-.r-1d2f490{left:0px;}
-.r-1xcajam{position:fixed;}
-.r-zchlnj{right:0px;}
-.r-ipm5af{top:0px;}
-.r-yyyyoo{fill:currentcolor;}
-.r-1xvli5t{height:1.25em;}
-.r-dnmrzs{max-width:100%;}
-.r-bnwqim{position:relative;}
-.r-1plcrui{vertical-align:text-bottom;}
-.r-lrvibr{-moz-user-select:none;-ms-user-select:none;-webkit-user-select:none;user-select:none;}
-.r-13gxpu9{color:rgba(29,161,242,1.00);}
-.r-wy61xf{height:72px;}
-.r-u8s1d{position:absolute;}
-.r-1blnp2b{width:72px;}
-.r-1ykxob0{top:60%;}
-.r-1awozwy{-ms-flex-align:center;-webkit-align-items:center;-webkit-box-align:center;align-items:center;}
-.r-q4m81j{text-align:center;}
-.r-bcqeeo{min-width:0px;}
-.r-qvutc0{word-wrap:break-word;}
-.r-rjixqe{line-height:20px;}
-.r-37j5jr{font-family:"TwitterChirp",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;}
-.r-a023e6{font-size:15px;}
-.r-16dba41{font-weight:400;}
-.r-poiln3{font-family:inherit;}
-.r-2yi16{min-height:36px;}
-.r-1qi8awa{min-width:36px;}
-.r-o7ynqc{-webkit-transition-duration:0.2s;transition-duration:0.2s;}
-.r-6416eg{-moz-transition-property:background-color, box-shadow;-webkit-transition-property:background-color, box-shadow;transition-property:background-color, box-shadow;}
-.r-1ny4l3l{outline-style:none;}
-.r-b88u0q{font-weight:700;}
-.r-18u37iz{-ms-flex-direction:row;-webkit-box-direction:normal;-webkit-box-orient:horizontal;-webkit-flex-direction:row;flex-direction:row;}
-.r-16y2uox{-ms-flex-positive:1;-webkit-box-flex:1;-webkit-flex-grow:1;flex-grow:1;}
-.r-1777fci{-ms-flex-pack:center;-webkit-box-pack:center;-webkit-justify-content:center;justify-content:center;}</style></head>
-<body style="background-color: #FFFFFF;">
-<noscript>
+<link href="//c.ststat.net/content/sites/glastonbury/assets/images/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<link href="//fonts.googleapis.com/css?family=Roboto:500,400,300,300italic,400italic&amp;display=swap" rel="stylesheet" type="text/css"/>
+<!--[if lte IE 9]>
+        <link rel="stylesheet" type="text/css" href="~/current/css/IE/components.ie.9.min.css">
+        <link rel="stylesheet" type="text/css" href="~/current/css/IE/base.grid.ie.9.min.css">
+        <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+<link href="//c.ststat.net/content/seetickets/mainwebapp/css/glastonbury/glasto-5.css" rel="stylesheet" type="text/css"/>
 <style>
-    body {
-      -ms-overflow-style: scrollbar;
-      overflow-y: scroll;
-      overscroll-behavior-y: none;
-    }
-
-    .errorContainer {
-      background-color: #FFF;
-      color: #0F1419;
-      max-width: 600px;
-      margin: 0 auto;
-      padding: 10%;
-      font-family: Helvetica, sans-serif;
-      font-size: 16px;
-    }
-
-    .errorButton {
-      margin: 3em 0;
-    }
-
-    .errorButton a {
-      background: #1DA1F2;
-      border-radius: 2.5em;
-      color: white;
-      padding: 1em 2em;
-      text-decoration: none;
-    }
-
-    .errorButton a:hover,
-    .errorButton a:focus {
-      background: rgb(26, 145, 218);
-    }
-
-    .errorFooter {
-      color: #657786;
-      font-size: 80%;
-      line-height: 1.5;
-      padding: 1em 0;
-    }
-
-    .errorFooter a,
-    .errorFooter a:visited {
-      color: #657786;
-      text-decoration: none;
-      padding-right: 1em;
-    }
-
-    .errorFooter a:hover,
-    .errorFooter a:active {
-      text-decoration: underline;
-    }
-
-      #placeholder,
-      #react-root {
-        display: none !important;
-      }
-      body {
-        background-color: #FFF !important;
-      }
+        .book-other .g-button.primary {padding:40px;}
+        
+      	.col_5 .inner {
+          	background: #fff;
+      	}
+        .support-centre {
+            position: fixed;
+            bottom: 90px;
+            right: 10px;
+            font-weight: 500;
+        }
+        
+        .l-gdpr-banner {
+            z-index: 999;
+        }
+        
+        .buttons .g-button.full {
+            text-align:center;
+            font-weight:500;
+            font-size:17px;
+        }
+        
+        .buttons .g-button.full span {
+            font-style:italic;
+            color:#1A1448;
+            font-size:12px;
+            font-weight:400;
+        }
+      	.buttons p {
+          font-weight: 700;
+          font-size: 15px;
+      	}
+        
+        
+        
+        @media screen and (max-width: 55.625rem) {
+            .support-centre {
+                position: initial;
+                width: 100%;
+                margin-left: 0;
+                margin-top: 20px;
+            }
+        }
     </style>
-<div class="errorContainer">
-<img alt="Twitter" height="38" src="https://abs.twimg.com/errors/logo46x38.png" srcset="https://abs.twimg.com/errors/logo46x38.png 1x, https://abs.twimg.com/errors/logo46x38@2x.png 2x" width="46"/>
-<h1>JavaScript is not available.</h1>
-<p>We’ve detected that JavaScript is disabled in this browser. Please enable JavaScript or switch to a supported browser to continue using twitter.com. You can see a list of supported browsers in our Help Center.</p>
-<p class="errorButton"><a href="https://help.twitter.com/using-twitter/twitter-supported-browsers">Help Center</a></p>
-<p class="errorFooter">
-<a href="https://twitter.com/tos">Terms of Service</a>
-<a href="https://twitter.com/privacy">Privacy Policy</a>
-<a href="https://support.twitter.com/articles/20170514">Cookie Policy</a>
-<a href="https://legal.twitter.com/imprint.html">Imprint</a>
-<a href="https://business.twitter.com/en/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&amp;utm_source=twc&amp;utm_medium=web&amp;utm_campaign=ao&amp;utm_content=adsinfo">Ads info</a>
-      © 2023 Twitter, Inc.
-    </p>
+<style>
+        @font-face {
+            font-family: 'LeagueGothicRegular';
+            src: url('https://c.ststat.net/content/seetickets/mainwebapp/css/glastonbury/fonts/leaguegothic-regular-webfont.eot');
+            src: url('https://c.ststat.net/content/seetickets/mainwebapp/css/glastonbury/fonts/leaguegothic-regular-webfont.eot?#iefix') format('embedded-opentype'), url('https://c.ststat.net/content/seetickets/mainwebapp/css/glastonbury/fonts/leaguegothic-regular-webfont.woff') format('woff'), url('https://c.ststat.net/content/seetickets/mainwebapp/css/glastonbury/fonts/leaguegothic-regular-webfont.ttf') format('truetype'), url('https://c.ststat.net/content/seetickets/mainwebapp/css/glastonbury/fonts/leaguegothic-regular-webfont.svg#LeagueGothicRegular') format('svg');
+            font-weight: normal;
+            font-style: normal;
+        }
+    </style>
+<link href="https://c.ststat.net/content/seeticketsv2/static-scripts/current/css/base.min.css" rel="stylesheet" type="text/css"/>
+<link href="https://c.ststat.net/content/seeticketsv2/static-scripts/current/css/glastonbury.min.css" rel="stylesheet" type="text/css"/>
+<!-- Google Tag Manager -->
+
+<!-- End Google Tag Manager -->
+
+</head>
+<body class="l-layout landing">
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+<iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-WZCVLFF" style="display:none;visibility:hidden" width="0"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+<header id="main-header">
+<div class="header_block">
+<a href="http://www.glastonburyfestivals.co.uk/">
+<img alt="Glastonbury Festival" src="//c.ststat.net/content/sites/glastonbury/assets/images/glastonbury_festival.png"/>
+</a>
 </div>
-</noscript><div id="react-root" style="height:100%;display:flex;"><div class="css-1dbjc4n r-13awgt0 r-12vffkv"><div class="css-1dbjc4n r-13awgt0 r-12vffkv"><div aria-label="Loading…" class="css-1dbjc4n r-14lw9ot r-1p0dtai r-1d2f490 r-1xcajam r-zchlnj r-ipm5af" id="placeholder"><svg aria-hidden="true" class="r-1p0dtai r-13gxpu9 r-4qtqp9 r-yyyyoo r-wy61xf r-1d2f490 r-ywje51 r-dnmrzs r-u8s1d r-zchlnj r-1plcrui r-ipm5af r-lrvibr r-1blnp2b" viewbox="0 0 24 24"><g><pattern height="1" id="42204-a" patterncontentunits="objectBoundingBox" width="1"><image height="115" transform="scale(.01 .0087)" width="100" xlink:href="data:image/png;base64,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"/></pattern><path d="M2.412.974h19.176v22.052H2.412z" fill="url(#42204-a)"></path></g></svg></div><div class="css-1dbjc4n r-hvic4v r-1d2f490 r-1xcajam r-zchlnj r-1ykxob0" id="ScriptLoadFailure"><form action="" method="GET"><div class="css-1dbjc4n r-1awozwy r-q4m81j"><div class="css-901oao r-37j5jr r-a023e6 r-16dba41 r-rjixqe r-bcqeeo r-qvutc0" dir="ltr" style="color:rgba(15,20,25,1.00)"><span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">Something went wrong, but don’t fret — let’s give it another shot.</span></div><br/><input name="failedScript" type="hidden" value=""/><button style="background:transparent;border:none" type="submit"><div class="css-18t94o4 css-1dbjc4n r-sdzlij r-1phboty r-rs99b7 r-2yi16 r-1qi8awa r-1ny4l3l r-ymttw5 r-o7ynqc r-6416eg r-lrvibr" role="button" style="background-color:rgba(15,20,25,1.00);border-top-color:rgba(0,0,0,0.00);border-right-color:rgba(0,0,0,0.00);border-bottom-color:rgba(0,0,0,0.00);border-left-color:rgba(0,0,0,0.00)" tabindex="0"><div class="css-901oao r-1awozwy r-6koalj r-18u37iz r-16y2uox r-37j5jr r-a023e6 r-b88u0q r-1777fci r-rjixqe r-bcqeeo r-q4m81j r-qvutc0" dir="ltr" style="color:rgba(255,255,255,1.00)"><span class="css-901oao css-16my406 css-1hf3ou5 r-poiln3 r-a023e6 r-rjixqe r-bcqeeo r-qvutc0"><span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">Try again</span></span></div></div></button></div></form></div></div></div></div></body></html>
+</header>
+<main class="l-content">
+
+<div id="google_translate_element"></div>
+<svg class="gl-button-click-spinner" height="64px" id="gl-button-click-spinner-light" style="width: 20px; height: 20px; display: none; margin-left: 10px;" version="1.0" viewbox="0 0 128 128" width="64px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><rect fill="#262626" height="100%" width="100%" x="0" y="0"></rect><g><circle cx="16" cy="64" fill="#ffffff" r="16"></circle><circle cx="16" cy="64" fill="#ffffff" r="14.344" transform="rotate(45 64 64)"></circle><circle cx="16" cy="64" fill="#ffffff" r="12.531" transform="rotate(90 64 64)"></circle><circle cx="16" cy="64" fill="#ffffff" r="10.75" transform="rotate(135 64 64)"></circle><circle cx="16" cy="64" fill="#ffffff" r="10.063" transform="rotate(180 64 64)"></circle><circle cx="16" cy="64" fill="#ffffff" r="8.063" transform="rotate(225 64 64)"></circle><circle cx="16" cy="64" fill="#ffffff" r="6.438" transform="rotate(270 64 64)"></circle><circle cx="16" cy="64" fill="#ffffff" r="5.375" transform="rotate(315 64 64)"></circle><animatetransform attributename="transform" calcmode="discrete" dur="720ms" repeatcount="indefinite" type="rotate" values="0 64 64;315 64 64;270 64 64;225 64 64;180 64 64;135 64 64;90 64 64;45 64 64"></animatetransform></g></svg>
+<svg class="gl-button-click-spinner" height="64px" id="gl-button-click-spinner-dark" style="width: 20px; height: 20px; display: none; margin-left: 10px;" version="1.0" viewbox="0 0 128 128" width="64px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g transform="rotate(225 64 64)"><circle cx="16" cy="64" fill="#000000" fill-opacity="1" r="16" style="fill: #fff;"></circle><circle cx="16" cy="64" fill="#000000" fill-opacity="1" r="14.344" transform="rotate(45 64 64)"></circle><circle cx="16" cy="64" fill="#000000" fill-opacity="1" r="12.531" transform="rotate(90 64 64)"></circle><circle cx="16" cy="64" fill="#000000" fill-opacity="1" r="10.75" transform="rotate(135 64 64)"></circle><circle cx="16" cy="64" fill="#000000" fill-opacity="1" r="10.063" transform="rotate(180 64 64)"></circle><circle cx="16" cy="64" fill="#000000" fill-opacity="1" r="8.063" transform="rotate(225 64 64)"></circle><circle cx="16" cy="64" fill="#000000" fill-opacity="1" r="6.438" transform="rotate(270 64 64)"></circle><circle cx="16" cy="64" fill="#000000" fill-opacity="1" r="5.375" transform="rotate(315 64 64)"></circle><animatetransform attributename="transform" calcmode="discrete" dur="720ms" repeatcount="indefinite" type="rotate" values="0 64 64;315 64 64;270 64 64;225 64 64;180 64 64;135 64 64;90 64 64;45 64 64"></animatetransform></g></svg>
+<div id="page_outer">
+<div id="page">
+<div class="cf" id="main">
+<div class="site-content colour_4" id="content" role="main">
+<div class="col_5">
+<div class="inner">
+<article class="post-858 page type-page status-publish hentry" id="post-858">
+<div class="entry-content" data-refresh-id="1645521249.4881">
+<h1>Glastonbury Festival</h1>
+<div class="g-grid buttons">
+<div class="g-grid-col full">
+<h2>Balance Payment</h2>
+<p>The balance payment window is now open. Your balance payment is due between 9am on Saturday 1st April and 11.59pm on Friday 7th April 2023.</p>
+<p>For more information about paying your balance, please see the FAQ online here: <a href="https://glastonburyfestivals.co.uk">glastonburyfestivals.co.uk</a></p>
+</div>
+<div class="g-grid-col x6">
+<a class="g-button primary full" href="/event/glastonbury-2023-ticket-coach-travel/worthy-farm/2500013">Ticket + Coach travel balance payment</a>
+</div>
+<div class="g-grid-col x6">
+<a class="g-button primary full" href="/event/glastonbury-2023/worthy-farm/2575665">General Admission balance payment</a>
+</div>
+<div class="g-grid-col x6" style="margin-top: 1.25rem;">
+<a class="g-button primary full" href="/event/worthy-view-sticklinch-accomodation/worthy-farm/2500010">WORTHY VIEW &amp; STICKLINCH ACCOMMODATION - Car Parking only</a>
+</div>
+</div>
+<h2>Registration</h2>
+<div class="g-grid">
+<div class="g-grid-col x6"><a class="g-button primary full" href="/registration/register" title="Register">Register</a></div>
+<div class="g-grid-col x6"><a class="g-button primary full" href="/registration/lookup" title="Retrieve Details">Retrieve / Edit details</a></div>
+</div>
+<a class="g-button primary small support-centre" href="https://supportcentre.seetickets.com/?website=glastonbury" target="_blank">
+                                    Customer Support Centre
+                                </a>
+</div>
+</article>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main>
+<footer id="main-footer"><nav id="footer-navigation"><div class="inner">Powered by <a href="https://www.seetickets.com"><img alt="See Tickets" class="SeeTicketsLogo" src="//c.ststat.net/content/sites/glastonbury/assets/images/see_logo.png"/></a></div></nav></footer><div class="l-gdpr-banner" style="display: none;"><p>We use our own cookies and cookies from 3rd parties to ensure that we give you the best experience on our website. If you continue without changing your settings, we'll assume that you are happy to receive all cookies on the See Tickets website. However, you can <a href="/content/cookies-info">change your cookie settings at any time.</a></p><div class="gdpr-close"><a class="gdpr-dismiss" href="#">Close</a></div><button class="g-button secondary gdpr-accept" value="Continue">Accept and continue</button></div>
+
+
+
+
+
+
+
+
+
+
+
+<noscript>
+<aside class="noscript-warning">
+<p>
+<svg aria-hidden="true" class="g-icon exclamation-circle"><use xlink:href="#icon-exclamation-circle"></use></svg>
+                It looks like Javascript is disabled. You will have to enable Javascript to purchase tickets.
+            </p>
+</aside>
+</noscript>
+</body>
+</html>
